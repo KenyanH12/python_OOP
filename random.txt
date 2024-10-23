@@ -1,0 +1,11 @@
+cat
+dog
+porcupine
+
+pear
+
+# veggies
+
+carrot
+kale
+wordfinder.py
